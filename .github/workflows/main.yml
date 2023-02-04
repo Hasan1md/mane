@@ -6,9 +6,9 @@ on: [push, workflow_dispatch]
 
 jobs:RDP RUN
 
-build:
+build:RDP VPS US
 
-runs on: windows-latest
+runs on: windows 10 PRO
 
 steps:
 
