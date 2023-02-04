@@ -4,7 +4,7 @@ llll 31%
 
 on: [push, workflow_dispatch]
 
-jobs:
+jobs:RDP RUN
 
 build:
 
